@@ -1,0 +1,12 @@
+﻿body {
+
+
+    border-style:solid;    
+    background-position:center; 
+    border-width :thick; 
+    background-image: url(donations.jpg);
+    background-color:burlywood;
+    border-image-width :auto;
+   
+
+}

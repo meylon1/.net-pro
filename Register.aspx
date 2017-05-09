@@ -1,8 +1,10 @@
-﻿<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Register.aspx.cs" Inherits="Register" %>
+
+<%@ Page Language="C#" AutoEventWireup="true" CodeFile="Register.aspx.cs" Inherits="Register" %>
 
 <!DOCTYPE html>
 
 <html xmlns="http://www.w3.org/1999/xhtml">
+    <link href="CSS.css" rel="stylesheet" type="text/css" />
 <head runat="server">
     <title>Register</title>
 </head>
